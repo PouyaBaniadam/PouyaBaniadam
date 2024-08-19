@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pouya Baniadam</h1>
 <h3 align="center">A Back-End developer</h3>
 
+<p align="center">
+  <img src="https://github.com/PouyaBaniadam/PouyaBaniadam/blob/main/Ry6p.gif" alt="GIF"/>
+</p>
+
 - 🔭 I’m currently working on **PouyaNevis**
 
 - 🌱 I’m currently learning **Celery**
