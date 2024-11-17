@@ -32,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pouyabaniadam&show_icons=true&locale=en&layout=compact" alt="pouyabaniadam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pouyabaniadam&show_icons=true&locale=en" alt="pouyabaniadam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pouyabaniadam&" alt="pouyabaniadam" /></p>
